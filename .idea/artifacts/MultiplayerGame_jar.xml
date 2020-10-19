@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiplayerGame:jar">
+    <output-path>$USER_HOME$/Desktop/MultiplayerGame</output-path>
+    <root id="archive" name="MultiplayerGame.jar">
+      <element id="module-output" name="MultiplayerGame" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jars/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jars/lwjgl_util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jars/PNGDecoder.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jars/slick-util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jars/vecmath-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
